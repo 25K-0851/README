@@ -1,1 +1,1 @@
-# Programmng Fundamentals Fall 2025
+# Programming Fundamentals Fall 2025
